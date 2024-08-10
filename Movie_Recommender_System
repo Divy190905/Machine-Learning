@@ -1,2 +1,0 @@
-Movie Recommender System
-This project implements a movie recommender system using NLTK on the TMDb movies dataset. It uses vectorization and stemming to analyze movie descriptions and generate personalized recommendations. The system helps users discover new movies based on their interests by leveraging content-based filtering techniques.
