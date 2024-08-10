@@ -21,7 +21,6 @@ The project requires the following Python libraries:
 - pandas
 - numpy
 - nltk
-- scikit-learn
 
 ## Dataset
 
